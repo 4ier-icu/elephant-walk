@@ -47,6 +47,6 @@ If your desk mixes **macOS, Windows, Linux (Wayland/X11), and Android** and you 
 
 ## Reporting Issues & Contact
 
-- Open a [GitHub Issue](https://github.com/41er1cu/elephant-walk/issues) with your OS/desktop environment (e.g. macOS 15, Fedora GNOME Wayland, niri, Windows 11, Android 14) and steps to reproduce.
+- Open a [GitHub Issue](https://github.com/4ier-icu/elephant-walk/issues) with your OS/desktop environment (e.g. macOS 15, Fedora GNOME Wayland, niri, Windows 11, Android 14) and steps to reproduce.
 - Direct email / security reports: **hello@4ier.icu**
 - Developer homepage: **[四叶虫·4ier (https://4ier.icu/)](https://4ier.icu/)**

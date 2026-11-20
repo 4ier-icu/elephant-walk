@@ -37,6 +37,6 @@
 
 ## 问题反馈与联系
 
-- 请直接在本仓库提交 [Issue](https://github.com/41er1cu/elephant-walk/issues)，注明操作系统与桌面环境（例如 macOS 15、Ubuntu GNOME Wayland、niri、Windows 11、Android 14）及复现步骤。
+- 请直接在本仓库提交 [Issue](https://github.com/4ier-icu/elephant-walk/issues)，注明操作系统与桌面环境（例如 macOS 15、Ubuntu GNOME Wayland、niri、Windows 11、Android 14）及复现步骤。
 - 邮件联系与安全反馈：**hello@4ier.icu**
 - 开发者主页：**[四叶虫·4ier (https://4ier.icu/)](https://4ier.icu/)**
