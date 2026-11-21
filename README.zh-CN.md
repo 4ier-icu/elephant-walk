@@ -2,7 +2,7 @@
 
 **一套键鼠，走过你桌上的每块屏——纯局域网、TLS 1.3 加密的四端跨屏键鼠共享软件（软 KVM）。**
 
-[中文官网](https://ew.4ier.icu/zh/) · [English README](README.md) · [安装说明](https://ew.4ier.icu/zh/install/) · [安全与加密](https://ew.4ier.icu/zh/security/) · [软件对比](https://ew.4ier.icu/zh/compare/) · [常见问题](https://ew.4ier.icu/zh/faq/)
+[中文官网](https://ew.4ier.icu/zh/) · [English README](README.md) · [安装说明](https://ew.4ier.icu/zh/install/) · [平台兼容矩阵](docs/compatibility.md) · [安全与加密](docs/zh/security.md) · [软件对比](docs/zh/compare.md) · [常见问题](docs/zh/faq.md) · [更新记录](docs/zh/changelog.md)
 
 > 本仓库为**大象漫步（Elephant Walk）**的公开文档中心、版本更新记录与公开 Issue 反馈入口（主程序为闭源商业软件，$9.90 一次买断，提供 1 天完整免费试用且无需绑卡）。
 

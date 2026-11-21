@@ -2,7 +2,7 @@
 
 **Local, TLS 1.3 encrypted software KVM for macOS, Windows, Linux (Wayland & X11), and Android.**
 
-[Website (English)](https://ew.4ier.icu/en/) · [官网（简体中文）](https://ew.4ier.icu/zh/) · [简体中文说明](README.zh-CN.md) · [Install Guide](https://ew.4ier.icu/en/install/) · [Security](docs/security.md) · [Compare](docs/compare.md) · [FAQ](docs/faq.md)
+[Website (English)](https://ew.4ier.icu/en/) · [官网（简体中文）](https://ew.4ier.icu/zh/) · [简体中文说明](README.zh-CN.md) · [Install Guide](https://ew.4ier.icu/en/install/) · [Compatibility](docs/compatibility.md) · [Security](SECURITY.md) · [Compare](docs/compare.md) · [FAQ](docs/faq.md)
 
 > This repository is the public documentation hub, release log, and issue tracker for **Elephant Walk** (closed-source commercial software, $9.90 USD one-time purchase with a free 1-day full trial and no card required).
 
