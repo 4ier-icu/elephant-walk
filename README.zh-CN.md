@@ -12,6 +12,7 @@
 
 - **四端同一个应用**：
   - **macOS**：Apple 芯片（M1 及以上），macOS 13+
+  - Homebrew 安装：`brew tap 4ier-icu/tap && brew install --cask elephant-walk`
   - **Windows**：Windows 10 / 11（免安装便携 x64 `.exe` 与 ARM64）
   - **Linux**：64 位 **GNOME、KDE、X11、niri**（原生支持 Wayland 与 X11）
   - **Android**：Android 11+ 手机与平板（首次无线调试引导授权；**免 Root、免 Shizuku、不申请无障碍服务、无常驻通知**）
