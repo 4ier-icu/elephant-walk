@@ -14,7 +14,7 @@ Move one keyboard, mouse, or touchpad smoothly across the computers, tablets, an
 
 - **Four platforms in one native app**:
   - **macOS**: Apple silicon (M1 or later), macOS 13+
-  - Homebrew Cask: `brew tap 4ier-icu/tap && brew install --cask elephant-walk`
+  - Homebrew Cask: `brew tap 4ier-icu/tap && brew install --cask elephant-walk` (on Homebrew 5+, run `brew trust 4ier-icu/tap` if prompted)
   - **Windows**: Windows 10 & 11 (portable x64 `.exe` and ARM64)
   - **Linux**: 64-bit **GNOME, KDE, X11, and niri** (native Wayland & X11)
   - **Android**: Android 11+ phones & tablets (one-time Wireless debugging setup; **no root, no Shizuku, no accessibility service, no persistent notification**)

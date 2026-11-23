@@ -1,5 +1,3 @@
-# Software KVM Comparison
-
 Every software KVM makes different trade-offs. Here is an honest, side-by-side comparison of Elephant Walk against the most common alternatives so you can pick the right tool for your desk.
 
 ## Software KVM Comparison
@@ -7,8 +5,8 @@ Every software KVM makes different trade-offs. Here is an honest, side-by-side c
 | Feature | Elephant Walk | Deskflow | Synergy | Barrier / Input Leap | LAN Mouse | Across | scrcpy |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **macOS** | Yes (Apple silicon, macOS 13+) | Yes | Yes | Yes | Yes | Yes | Host window |
-| **Windows** | Yes (Win 10/11, x64 & ARM64) | Yes | Yes | Yes | Yes | Yes | Host window |
-| **Linux (Wayland & X11)** | **Native** (GNOME, KDE, X11, niri) | Yes (libei / portals) | Partial | Mostly X11 (Input Leap adding Wayland) | Yes (Wayland / X11) | No Linux server | Host window |
+| **Windows** | Yes (Win 10/11, x64 `.exe` & ARM64 `.zip`) | Yes | Yes | Yes | Yes | Yes | Host window |
+| **Linux (Wayland & X11)** | **Native** (x86_64: GNOME, KDE, X11, niri) | Yes (libei / portals) | Partial | Mostly X11 (Input Leap adding Wayland) | Yes (Wayland / X11) | No Linux server | Host window |
 | **Android phones & tablets** | **Native** (edge crossing, full keyboard, multi-finger gestures, no Shizuku) | No | No | No | No | Yes (Bluetooth HID emulation) | Screen mirroring window (not edge crossing) |
 | **Discovery & setup** | Zero-IP LAN auto-discovery | Server / client config | Server / client config | Server / client config | Manual IP & port | Bluetooth pairing | USB or wireless ADB |
 | **Screen geometry** | True physical millimeter scale, exact seams, auto re-anchor on tablet rotation | Grid placement | Grid placement | Grid placement | Top / bottom / left / right only | Relative placement | Desktop mirror window |
@@ -26,4 +24,4 @@ Every software KVM makes different trade-offs. Here is an honest, side-by-side c
   3. Bidirectional text and image clipboard sync across desktop and Android without root or Shizuku;
   4. A simple **$9.90 one-time purchase** covering unlimited personal/household devices with no subscription and no cloud relay.
 
-Try it on your own hardware first with the free 1-day full trial (no card required): see the [Install guide](https://ew.4ier.icu/en/install/) and [Security & encryption](https://ew.4ier.icu/en/security/).
+Try it on your own hardware first with the free 1-day full trial (no card required): see the [Install guide](../install/) and [Security & encryption](../security/).

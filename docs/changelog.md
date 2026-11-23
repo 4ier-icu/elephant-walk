@@ -1,5 +1,3 @@
-# Changelog & Platform Support
-
 Public release history and verified platform support matrix for Elephant Walk.
 
 ## Platform Support Matrix (1.0)
@@ -7,8 +5,8 @@ Public release history and verified platform support matrix for Elephant Walk.
 | Platform | Supported Versions | Setup & Permissions | Auto-Update |
 | --- | --- | --- | --- |
 | **macOS** | Apple silicon (M1 or later), macOS 13+ | Native app; Local Network, Accessibility, Input Monitoring | Yes |
-| **Windows** | Windows 10 / 11 (x64 portable & ARM64) | Portable `.exe`, no installer or admin rights needed | Replace `.exe` (settings preserved) |
-| **Linux** | 64-bit GNOME, KDE, X11, and niri | Native Wayland & X11; optional one-time `uinput` lock-screen permission | Yes |
+| **Windows** | Windows 10 / 11 (x64 portable `.exe` & ARM64 `.zip`) | Portable (no installer or admin rights needed) | Replace `.exe` / unpack zip (settings preserved) |
+| **Linux** | 64-bit x86_64 (GNOME, KDE, X11, and niri; no ARM64 yet) | Native Wayland & X11; optional one-time `uinput` lock-screen permission | Yes |
 | **Android** | Android 11+ phones and tablets | One-time Wireless debugging setup; no root, no Shizuku, no persistent notification | In-app update |
 | **iOS / iPadOS** | Not supported | Explicitly outside current product scope | — |
 

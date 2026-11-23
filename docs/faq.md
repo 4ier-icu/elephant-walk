@@ -1,14 +1,12 @@
-# Frequently Asked Questions
-
 ### Which operating systems and Linux desktops does Elephant Walk support?
 
 Elephant Walk runs on four platforms:
 - **macOS**: Apple silicon (M1 or later) on macOS 13 or newer.
-- **Windows**: Windows 10 and Windows 11 (portable x64 `.exe` and ARM64 package).
-- **Linux**: 64-bit Linux on **GNOME, KDE, X11, and niri** (supporting both Wayland and X11).
+- **Windows**: Windows 10 and Windows 11 (portable x64 `.exe` and ARM64 `.zip` package).
+- **Linux**: 64-bit x86_64 Linux on **GNOME, KDE, X11, and niri** (supporting both Wayland and X11; Linux ARM64 is not yet supported).
 - **Android**: Android 11 or newer phones and tablets.
 
-iPhone and iPad (iOS / iPadOS) and Intel Macs are **not** supported.
+iPhone and iPad (iOS / iPadOS), Intel Macs, and ARM64 Linux are **not** supported.
 
 ### Are keystrokes and clipboard data encrypted over Wi-Fi?
 
@@ -16,7 +14,7 @@ Yes. All keyboard input, pointer movement, gestures, and clipboard text/images t
 - Control and clipboard lanes enforce **TLS 1.3 with mutual certificate authentication (mTLS)** and **Ed25519 SHA-256 public-key fingerprint pinning** on every handshake.
 - High-frequency pointer UDP datagrams use per-connection directional keys derived via TLS `ExportKeyingMaterial` and encrypted with **AES-256-GCM** plus strictly monotonic 64-bit anti-replay nonces.
 
-See [Security & encryption](https://ew.4ier.icu/en/security/) for the full technical breakdown and how to inspect traffic yourself.
+See [Security & encryption](../security/) for the full technical breakdown and how to inspect traffic yourself.
 
 ### Does Android require root or Shizuku?
 
@@ -32,7 +30,7 @@ Elephant Walk is a **$9.90 USD one-time purchase** (taxes shown at checkout), wi
 
 ### Why is it closed-source, and how can I verify it does not upload my keystrokes?
 
-Elephant Walk is independently built and funded through one-time licenses, so the application itself is closed-source. To earn trust through verifiable facts rather than promises, we document every network endpoint and exact steps to inspect traffic with Wireshark, `tcpdump`, Little Snitch, or LuLu on our [Security & encryption](https://ew.4ier.icu/en/security/) page. If open-source auditability is mandatory for your environment, we explicitly recommend Deskflow on our [Compare](https://ew.4ier.icu/en/compare/) page.
+Elephant Walk is independently built and funded through one-time licenses, so the application itself is closed-source. To earn trust through verifiable facts rather than promises, we document every network endpoint and exact steps to inspect traffic with Wireshark, `tcpdump`, Little Snitch, or LuLu on our [Security & encryption](../security/) page. If open-source auditability is mandatory for your environment, we explicitly recommend Deskflow on our [Compare](../compare/) page.
 
 ### Does Elephant Walk work offline?
 
@@ -40,4 +38,4 @@ Yes. Once activated, daily keyboard, mouse, and clipboard sharing runs strictly 
 
 ### What is the refund policy?
 
-In addition to the free 1-day trial, all orders are processed by Paddle.com (Merchant of Record) and honor regional cancellation and statutory withdrawal rights (such as 7 days unconditional in China, South Korea, Brazil, and Canada, and 14 days in the EU/UK). If an unresolved technical fault prevents Elephant Walk from working on a supported system, email `hello@4ier.icu` for troubleshooting or a full refund. Full details are in the [Refund policy](https://ew.4ier.icu/en/refunds/).
+In addition to the free 1-day trial, all orders are processed by Paddle.com (Merchant of Record) and honor regional cancellation and statutory withdrawal rights (such as 7 days unconditional in China, South Korea, Brazil, and Canada, and 14 days in the EU/UK). If an unresolved technical fault prevents Elephant Walk from working on a supported system, email `hello@4ier.icu` for troubleshooting or a full refund. Full details are in the [Refund policy](../refunds/).
