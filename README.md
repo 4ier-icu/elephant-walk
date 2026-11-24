@@ -4,25 +4,25 @@
 
 [Website (English)](https://ew.4ier.icu/en/) · [官网（简体中文）](https://ew.4ier.icu/zh/) · [简体中文说明](README.zh-CN.md) · [Install Guide](https://ew.4ier.icu/en/install/) · [Compatibility](docs/compatibility.md) · [Security](SECURITY.md) · [Compare](docs/compare.md) · [FAQ](docs/faq.md)
 
-> This repository is the public documentation hub, release log, and issue tracker for **Elephant Walk** (closed-source commercial software, $9.90 USD one-time purchase with a free 1-day full trial and no card required).
+> This repository is the public documentation hub, release log, and issue tracker for **Elephant Walk** (closed-source commercial software, $9.90 USD one-time purchase with a free 7-day full trial and no card required).
 
 ---
 
 ## What Elephant Walk Does
 
-Move one keyboard, mouse, or touchpad smoothly across the computers, tablets, and phones on your desk—and copy/paste text and images in either direction over your local Wi-Fi.
+Move one keyboard, mouse, or touchpad smoothly across the computers, tablets, and phones on your desk—and copy/paste text and images in either direction over your local Wi-Fi or USB-C.
 
 - **Four platforms in one native app**:
   - **macOS**: Apple silicon (M1 or later), macOS 13+
   - Homebrew Cask: `brew tap 4ier-icu/tap && brew install --cask elephant-walk` (on Homebrew 5+, run `brew trust 4ier-icu/tap` if prompted)
   - **Windows**: Windows 10 & 11 (portable x64 `.exe` and ARM64)
   - **Linux**: 64-bit **GNOME, KDE, X11, and niri** (native Wayland & X11)
-  - **Android**: Android 11+ phones & tablets (one-time Wireless debugging setup; **no root, no Shizuku, no accessibility service, no persistent notification**)
+  - **Android**: Android 11+ phones & tablets (USB-C scan-free activation or one-time Wireless debugging setup; **no root, no Shizuku, no accessibility service, no persistent notification**)
   - *Not supported*: iOS / iPadOS, Intel Macs
-- **Zero-IP LAN auto-discovery**: Devices on the same local network discover and connect automatically—no IP addresses or ports to enter when switching Wi-Fi.
+- **Zero-IP LAN auto-discovery + USB-C fallback**: Devices on the same local network discover and connect automatically—no IP addresses or ports to enter when switching Wi-Fi, with restricted/campus Wi-Fi compatibility and USB-C direct connection for Android when Wi-Fi is isolated.
 - **Physical millimeter-scale layout**: Arrange screens as they actually sit on your desk (12 mm snap, 0.5 mm seam tolerance). Rotating an Android tablet re-anchors along its neighbor seam instead of resetting to the top-left corner.
 - **Bidirectional text & image clipboard**: Copy text or images on any desktop or Android device and paste directly on another—no chat apps or cloud relays.
-- **Simple one-time pricing**: **$9.90 USD once** for unlimited personal devices (household sharing allowed on an honor basis), free lifetime updates, no subscription. Try free for 1 full day (starts on your first screen crossing, no card required).
+- **Simple one-time pricing**: **$9.90 USD once** for unlimited personal devices (household sharing allowed on an honor basis), free lifetime updates, no subscription. Try free for **7 full days** (starts on your first screen crossing, no card required).
 
 ---
 

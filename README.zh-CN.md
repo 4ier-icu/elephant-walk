@@ -4,7 +4,7 @@
 
 [中文官网](https://ew.4ier.icu/zh/) · [English README](README.md) · [安装说明](https://ew.4ier.icu/zh/install/) · [平台兼容矩阵](docs/compatibility.md) · [安全与加密](docs/zh/security.md) · [软件对比](docs/zh/compare.md) · [常见问题](docs/zh/faq.md) · [更新记录](docs/zh/changelog.md)
 
-> 本仓库为**大象漫步（Elephant Walk）**的公开文档中心、版本更新记录与公开 Issue 反馈入口（主程序为闭源商业软件，$9.90 一次买断，提供 1 天完整免费试用且无需绑卡）。
+> 本仓库为**大象漫步（Elephant Walk）**的公开文档中心、版本更新记录与公开 Issue 反馈入口（主程序为闭源商业软件，$9.90 一次买断，提供 7 天完整免费试用且无需绑卡）。
 
 ---
 
@@ -15,12 +15,12 @@
   - Homebrew 安装：`brew tap 4ier-icu/tap && brew install --cask elephant-walk`（Homebrew 5+ 如提示未信任，先执行 `brew trust 4ier-icu/tap`）
   - **Windows**：Windows 10 / 11（免安装便携 x64 `.exe` 与 ARM64）
   - **Linux**：64 位 **GNOME、KDE、X11、niri**（原生支持 Wayland 与 X11）
-  - **Android**：Android 11+ 手机与平板（首次无线调试引导授权；**免 Root、免 Shizuku、不申请无障碍服务、无常驻通知**）
+  - **Android**：Android 11+ 手机与平板（支持 USB-C 免扫码自动激活或首次无线调试引导授权；**免 Root、免 Shizuku、不申请无障碍服务、无常驻通知**）
   - *不支持*：iOS / iPadOS、Intel 芯片 Mac
-- **局域网零配对自发现**：同 Wi-Fi 打开即自动发现并重连，无需手填 IP 和端口。
+- **局域网零配对自发现 + USB-C 直连兜底**：同 Wi-Fi 打开即自动发现并重连，无需手填 IP 和端口；兼容校园网、公司与酒店禁组播 Wi-Fi，网络隔离时安卓可插 USB-C 数据线直接连通。
 - **真实物理毫米排列**：按桌面实际比例排布屏幕（12 毫米吸附、0.5 毫米接触容差），安卓平板横竖屏旋转时按邻居接缝自动贴边重锚，不重置回左上角。
 - **双向文字与图片剪贴板**：电脑与安卓手机/平板之间直接复制粘贴文字和图片，不依赖聊天软件中转。
-- **简单买断制**：**$9.90 美元一次买断**，一人购买不限设备、同住家人可共用、终身免费更新、无订阅；先提供 1 天完整免费试用（鼠标首次跨屏时开始计时）。
+- **简单买断制**：**$9.90 美元一次买断**，一人购买不限设备、同住家人可共用、终身免费更新、无订阅；先提供 **7 天**完整免费试用（鼠标首次跨屏时开始计时）。
 
 ---
 

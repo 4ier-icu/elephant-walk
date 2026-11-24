@@ -26,7 +26,7 @@ Yes. Elephant Walk natively supports Wayland (GNOME, KDE, niri) and X11, and dis
 
 ### How much does Elephant Walk cost, and how many devices are included?
 
-Elephant Walk is a **$9.90 USD one-time purchase** (taxes shown at checkout), with **no subscription** and free lifetime updates. One license covers **unlimited devices** for one person (household sharing is allowed on an honor basis). Before buying, you get a **full-featured 1-day free trial** with no card required—the clock starts the first time your cursor crosses into another device.
+Elephant Walk is a **$9.90 USD one-time purchase** (taxes shown at checkout), with **no subscription** and free lifetime updates. One license covers **unlimited devices** for one person (household sharing is allowed on an honor basis). Before buying, you get a **full-featured 7-day free trial** with no card required—the clock starts the first time your cursor crosses into another device.
 
 ### Why is it closed-source, and how can I verify it does not upload my keystrokes?
 
@@ -38,4 +38,4 @@ Yes. Once activated, daily keyboard, mouse, and clipboard sharing runs strictly 
 
 ### What is the refund policy?
 
-In addition to the free 1-day trial, all orders are processed by Paddle.com (Merchant of Record) and honor regional cancellation and statutory withdrawal rights (such as 7 days unconditional in China, South Korea, Brazil, and Canada, and 14 days in the EU/UK). If an unresolved technical fault prevents Elephant Walk from working on a supported system, email `hello@4ier.icu` for troubleshooting or a full refund. Full details are in the [Refund policy](../refunds/).
+In addition to the free 7-day trial, all orders are processed by Paddle.com (Merchant of Record) and honor regional cancellation and statutory withdrawal rights (such as 7 days unconditional in China, South Korea, Brazil, and Canada, and 14 days in the EU/UK). If an unresolved technical fault prevents Elephant Walk from working on a supported system, email `hello@4ier.icu` for troubleshooting or a full refund. Full details are in the [Refund policy](https://ew.4ier.icu/en/refunds/).

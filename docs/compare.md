@@ -12,7 +12,7 @@ Every software KVM makes different trade-offs. Here is an honest, side-by-side c
 | **Screen geometry** | True physical millimeter scale, exact seams, auto re-anchor on tablet rotation | Grid placement | Grid placement | Grid placement | Top / bottom / left / right only | Relative placement | Desktop mirror window |
 | **Clipboard sync** | Bidirectional text & images across all 4 OSes (incl. Android) | Desktop text / formats | Desktop text & images | Desktop text (images often limited) | Limited | Limited | Primarily text |
 | **LAN encryption** | **TLS 1.3 mTLS + AES-256-GCM UDP** | TLS | TLS | TLS | DTLS | Bluetooth encryption | ADB channel |
-| **License & price** | Closed-source, **$9.90 one-time** (unlimited devices, free updates, 1-day free trial) | Free & open source | Paid commercial | Free & open source | Free & open source | Paid commercial (per-device / edition) | Free & open source |
+| **License & price** | Closed-source, **$9.90 one-time** (unlimited devices, free updates, 7-day free trial) | Free & open source | Paid commercial | Free & open source | Free & open source | Paid commercial (per-device / edition) | Free & open source |
 
 ## Honest Recommendation: Which One Should You Pick?
 
@@ -24,4 +24,4 @@ Every software KVM makes different trade-offs. Here is an honest, side-by-side c
   3. Bidirectional text and image clipboard sync across desktop and Android without root or Shizuku;
   4. A simple **$9.90 one-time purchase** covering unlimited personal/household devices with no subscription and no cloud relay.
 
-Try it on your own hardware first with the free 1-day full trial (no card required): see the [Install guide](../install/) and [Security & encryption](../security/).
+Try it on your own hardware first with the free 7-day full trial (no card required): see the [Install guide](https://ew.4ier.icu/en/install/) and [Security & encryption](security.md).
